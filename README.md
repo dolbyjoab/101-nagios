@@ -1,4 +1,3 @@
-<h1 align="center"> 101-NAGIOS </h1>
 <h2 align="center"> Q&A and everything else about Nagios </h2>
 <p align="center">
     <img src="docs/img/NagiosLogo.png"
@@ -23,6 +22,7 @@
   <a href="https://github.com/dolbyjoab/101-nagios/graphs/contributors">
     contributors
   </a>
+    </sub>
 </p>
   
 ***
