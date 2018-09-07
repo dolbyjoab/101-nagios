@@ -44,19 +44,17 @@ Here we will write something as intro.
 - <b>What news sources do you check daily? (Sysadmin or security-related)</b>
 
 ## <a name="general-knowledge">General Knowledge</a>
+ **- NODE.JS**
+ - *more answer*
+ -*- otro -*-
 
 ## <a name="junior-sysadmin">Junior Sysadmin</a>
 <details>
 <summary><b>Give some examples of Linux distribution names.</b></summary><br>
 
-- Red Hat Enterprise Linux
-- Fedora
-- CentOS
-- Debian
-- Ubuntu
-- SUSE Linux Enterprise Server (SLES)
-- SUSE Linux Enterprise Desktop (SLED)
-- Slackware
+- Test 1
+- Test 2 
+- Test 3
 
 </details>
 
