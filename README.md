@@ -46,7 +46,7 @@ Here we will write something as intro.
 ## <a name="general-knowledge">General Knowledge</a>
  **- NODE.JS**
  - *more answer*
- -*- otro -*-
+ - -*- otro -*-
 
 ## <a name="junior-sysadmin">Junior Sysadmin</a>
 <details>
