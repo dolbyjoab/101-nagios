@@ -1,7 +1,7 @@
 <h1 align="center"> 101-NAGIOS </h1>
 <h2 align="center"> Q&A and everything else about Nagios </h2>
 <p align="center">
-    <img src="https://github.com/dolbyjoab/101-NAGIOS/blob/master/docs/img/NagiosLogo.png"
+    <img src="docs/img/NagiosLogo.png"
         alt="Master">
 </p>
 
