@@ -1,4 +1,3 @@
-<h2 align="center"> Q&A and everything else about Nagios </h2>
 <p align="center">
     <img src="docs/img/NagiosLogo.png"
         alt="Master">
