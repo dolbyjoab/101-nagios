@@ -2,122 +2,68 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+<p align="center">
+    <img src="docs/img/NagiosLogo.png"
+        alt="Master">
+</p>
 
-There should be whitespace between paragraphs.
+<p align="center">
+  <a href="https://github.com/dolbyjoab/101-nagios/tree/master">
+    <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
+        alt="Branch">
+  </a>
+  <a href="http://www.gnu.org/licenses/">
+    <img src="https://img.shields.io/badge/License-GNU-blue.svg?longCache=true"
+        alt="License">
+  </a>
+</p>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+***
 
-# Header 1
+## <a name="Introduction">Introduction</a>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<p align="justify"> Nagios is a server monitoring infrastructure. In the olds days we used to have to run horribly cryptics commands like <b>sar, ps, du, df, and others,</b> then parse the output with awk and sed and then figure out how to do something with the data. These commands were never standardized so scripts running under Solaris may not work as expected under SunOS! Things gradually evolved and Nagios came on the scene almost 20 years ago. Nagios is now used to monitor sites with hundreds of thousands of services and you can configure tiered monitoring if you need maximum scalability. Nagios is incredibly flexible, but its greatest strength is also its weakness. Its power comes from the fact that it is based on scripting, allowing you to monitor literally anything. It's notification system is also based on scripts, so you can do whatever you like with the information, even restart services, clean old logs, or whatever. You can even download pre-written scripts to extend Nagios in all sorts of ways. Check the Nagios website for a repository.
+</p>
 
-## Header 2
+***
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## <a name="Contribuing">Contributing</a>
 
-### Header 3
+:information_source: This project contains **examples** of test questions and answers that can be used during an interview or exam for positions such as **\*nix System Administrator**.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+:warning: Questions marked '<b>*</b>' don't have answers yet - make a pull request to add them!
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+:bangbang: The answers are only examples and do not exhaust the whole topic.
 
-#### Header 4
+:vertical_traffic_light: If you find a question which doesn't make sense, or one of the answers doesn't seem right; please make a pull request! Feedback and advice is welcome.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+***
 
-##### Header 5
+## <a name="Questions">1st Section</a>
+<details>
+<summary><b>Explain Nagios or what is Nagios, explain it.</b></summary><br>
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+*Nagios is a monitoring tool that is used for continuous monitoring of system services, applications, and business processes. Even in case of any failure, Nagios tool can alert the technical staff about the problem. As a result, DevOps professionals or technical team members can begin the required remediation processes before the negative impact of any business processes, customers, and end-users. Here, in such cases, the team does not have to explain anyone that why an unseen infrastructure outage affects the bottom line of the organization.*
 
-###### Header 6
+Now as you know ‘what is Nagios?’ then you can also mention the things that can be achieved by the Nagios DevOps tool:
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+* Automatic problem fixing as and when they occur.
+* Infrastructure upgrades planning even before any failure due to an outdated system.
+* Technical team response coordination.
+* To ensure that SLA of your organization will be met.
+* To monitor the business process and the entire infrastructure.
+* To respond to issues even as and when they arise.
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+</details>
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+***
+<p align="center">
+  <sub>Created by
+  <a href="dolbyjoab.github.io">Etienne</a> and
+  <a href="https://github.com/dolbyjoab/101-nagios/graphs/contributors">
+    contributors
+  </a>
+    </sub>
+</p>
