@@ -38,9 +38,12 @@ layout: default
 If you would like to support this project, you have an interesting idea how to improve the operation of this tool or if you found some errors - do fork this add your fixes and add pull-request of your branch to the **dev branch**.
 
 **Remember:**
--  <a href="https://github.com/dolbyjoab/101-nagios/fork">Fork the repository</a>
--  Make your changes in **index.md**
--  Send a pull-request to the **dev branch**
+- <a href="https://github.com/dolbyjoab/101-nagios/fork">Fork the repository</a>
+- Base your code on the latest master branch to avoid manual merges
+- Code review may ensue in order to help shape your proposal
+- Explain the problem and your proposed solution
+- Make your changes in **index.md**
+- Send a pull-request to the **dev branch**
 
 ***
 
