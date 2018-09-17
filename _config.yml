@@ -1,5 +1,5 @@
 title: 101-NAGIOS
-description: Questions & answers about NAGIOS.
-show_downloads: false
+description: Questions & answers about NAGIOS
+show_downloads: true
 google_analytics:
-theme: jekyll-theme-leap-day
+theme:
